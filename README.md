@@ -18,9 +18,8 @@ I'm a passionate **Full-Stack Web Developer** with 2 years of hands-on experienc
 - 🎓 IT student at Homs University
 - 🛠 Building with the MERN stack, Next.js, PostgreSQL and Prisma
 - 🔐 Auth, e-commerce and blog platforms are my favorite things to build
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: www.ali.s.samer@gmail.com
 
-## 💻 Tech Stack
 
 <div align="center">
 <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -45,16 +44,11 @@ I'm a passionate **Full-Stack Web Developer** with 2 years of hands-on experienc
 <img src="https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>
 
-## 🎯 Top Skills
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,js,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgres,prisma,git,github,vercel,netlify&theme=dark&perline=15"/>
 </div>
 
-## 🧊 3D Tech Showcase
-
-## 🧊 3D Tech Showcase
-## 🎯 Top Skills
 
 <div align="center">
 
@@ -117,8 +111,7 @@ I'm a passionate **Full-Stack Web Developer** with 2 years of hands-on experienc
 <a href="https://github.com/AliSamerShaboot19"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://facebook.com/ali.s.shaboot"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2"/></a>
 <a href="https://instagram.com/alisamer1371"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="mailto:www.ali.s.samer@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
