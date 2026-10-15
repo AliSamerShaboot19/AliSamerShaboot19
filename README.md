@@ -53,12 +53,12 @@ I'm a passionate **Full-Stack Web Developer** with 2 years of hands-on experienc
 
 ## 🧊 3D Tech Showcase
 
-<div align="center">
-<!-- Replace with your own 3D animated GIFs -->
-  <img src="./react-3d.svg" width="100%" alt="React 3D Animated Logo">
+## 🧊 3D Tech Showcase
 
-<img src="PLACEHOLDER_3D_GIF_URL_2" width="30%"/>
-<img src="PLACEHOLDER_3D_GIF_URL_3" width="30%"/>
+<div align="center">
+<img src="./react-3d.svg" width="32%" alt="React 3D animated"/>
+<img src="./node-3d.svg" width="32%" alt="Node.js 3D animated"/>
+<img src="./database-3d.svg" width="32%" alt="Database 3D animated"/>
 </div>
 
 ## 📊 GitHub Stats
