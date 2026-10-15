@@ -54,11 +54,40 @@ I'm a passionate **Full-Stack Web Developer** with 2 years of hands-on experienc
 ## 🧊 3D Tech Showcase
 
 ## 🧊 3D Tech Showcase
+## 🎯 Top Skills
 
 <div align="center">
-<img src="./react-3d.svg" width="32%" alt="React 3D animated"/>
-<img src="./node-3d.svg" width="32%" alt="Node.js 3D animated"/>
-<img src="./database-3d.svg" width="32%" alt="Database 3D animated"/>
+
+<!-- Languages -->
+<img src="./skills/cpp.svg" width="120" alt="C++"/>
+<img src="./skills/javascript.svg" width="120" alt="JavaScript"/>
+
+<!-- Frontend -->
+<img src="./skills/react.svg" width="120" alt="React"/>
+<img src="./skills/next-js.svg" width="120" alt="Next.js"/>
+<img src="./skills/redux.svg" width="120" alt="Redux"/>
+<img src="./skills/tailwind.svg" width="120" alt="Tailwind"/>
+<img src="./skills/daisyui.svg" width="120" alt="DaisyUI"/>
+<img src="./skills/ejs.svg" width="120" alt="EJS"/>
+
+<!-- Backend -->
+<img src="./skills/node-js.svg" width="120" alt="Node.js"/>
+<img src="./skills/express.svg" width="120" alt="Express"/>
+<img src="./skills/jwt.svg" width="120" alt="JWT"/>
+<img src="./skills/prisma.svg" width="120" alt="Prisma"/>
+<img src="./skills/sentry.svg" width="120" alt="Sentry"/>
+
+<!-- Databases -->
+<img src="./skills/mongodb.svg" width="120" alt="MongoDB"/>
+<img src="./skills/postgresql.svg" width="120" alt="PostgreSQL"/>
+
+<!-- Tools & Deployment -->
+<img src="./skills/npm.svg" width="120" alt="NPM"/>
+<img src="./skills/git.svg" width="120" alt="Git"/>
+<img src="./skills/github.svg" width="120" alt="GitHub"/>
+<img src="./skills/vercel.svg" width="120" alt="Vercel"/>
+<img src="./skills/netlify.svg" width="120" alt="Netlify"/>
+
 </div>
 
 ## 📊 GitHub Stats
