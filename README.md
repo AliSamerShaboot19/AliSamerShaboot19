@@ -92,8 +92,7 @@ I'm a passionate **Full-Stack Web Developer** with 2 years of hands-on experienc
 <br/>
 <img src="https://streak-stats.demolab.com?user=AliSamerShaboot19&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=ff2bd6&currStreakLabel=00f0ff"/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliSamerShaboot19&theme=react-dark&bg_color=0d1117&color=00f0ff&line=7c5cff&point=ff2bd6&hide_border=true"/>
-</div>
+
 
 ## 📌 Featured Repositories
 
