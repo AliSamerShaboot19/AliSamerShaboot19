@@ -98,7 +98,6 @@ I'm a passionate **Full-Stack Web Developer** with 2 years of hands-on experienc
 
 <div align="center">
 <a href="https://github.com/AliSamerShaboot19/Weather-App-React"><img src="https://github-readme-stats.shion.dev/api/pin/?username=AliSamerShaboot19&repo=Weather-App-React&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2bd6"/></a>
-<a href="https://github.com/AliSamerShaboot19/mern-auth"><img src="https://github-readme-stats.shion.dev/api/pin/?username=AliSamerShaboot19&repo=mern-auth&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2bd6"/></a>
 <a href="https://github.com/AliSamerShaboot19/frontend-blogapp"><img src="https://github-readme-stats.shion.dev/api/pin/?username=AliSamerShaboot19&repo=frontend-blogapp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2bd6"/></a>
 <a href="https://github.com/AliSamerShaboot19/backend-blogapp"><img src="https://github-readme-stats.shion.dev/api/pin/?username=AliSamerShaboot19&repo=backend-blogapp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2bd6"/></a>
 <a href="https://github.com/AliSamerShaboot19/EcommerceFullStackProject"><img src="https://github-readme-stats.shion.dev/api/pin/?username=AliSamerShaboot19&repo=EcommerceFullStackProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2bd6"/></a>
